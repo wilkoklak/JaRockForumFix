@@ -21,8 +21,8 @@
 		background: #FF000F;
 	}
 	#shoutbox-shouts-table {
-	    max-width: 100%;
-	    overflow-x: hidden;
+    max-width: 100%;
+    overflow-x: hidden;
 	}
 	#shoutbox-shouts .ipsUserPhoto {
 		width: 32px;
