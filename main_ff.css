@@ -10,7 +10,7 @@
 		background-color: #FF000F;
 	}
 	#community_app_menu li.active a:hover {
-	  background-color: #fff;
+		background-color: #fff;
 	}
 	#more_apps_menucontent {
 		box-shadow: unset;
