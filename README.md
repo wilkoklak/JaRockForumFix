@@ -46,7 +46,7 @@ przerwie.
 
 Korzystamy ze wszelkich udogodnień CSS3 (Kill Internet Explo(it)rer!!! NO REMRoSE!!11!!1)
 
-Przykład:
+Przykład (w markdownie tabulatory są zastępowane spacjami):
 
 ```css
 /* Wygląd rozwijalnego elementu menu */
