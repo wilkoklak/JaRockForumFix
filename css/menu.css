@@ -12,7 +12,7 @@
 }
 /* Zachowanie oryginalnego koloru tła aktywnego elementu */
 #community_app_menu li.active a:hover {
-  background-color: #fff;
+	background-color: #fff;
 }
 /* Wygląd rozwijalnego elementu menu */
 #more_apps_menucontent {
