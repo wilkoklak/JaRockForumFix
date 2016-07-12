@@ -12,6 +12,9 @@ rózne rzeczy - od shoutboxa, przez menu i tagi, po kolorystykę i typografię.
 Osoby, które nie mają pojęcia o CSS'ie mogą zgłaszać propozycje elementów do poprawy,
 a jeżeli chcą się nauczyć, to polecam http://w3schools.com/css
 
+Propozycje i wszelki inny kontakt pod adresem: wilkoklak@gmx.com lub na
+http://forum.jarock.pl/ (Wilkokłak).
+
 **WAŻNE!** Nie wszystko można osiągnąć używając samego CSS'a. Służy on wyłącznie
 do edycji wyglądu elementów, ewentualnie animacji (CSS3). Nie możemy nim zmieniać
 treści elementów, ich zachowania (tylko wizualnie, np. zmiana koloru po najechaniu) itd.
@@ -29,7 +32,6 @@ dla Firefoxa (potrzebne są dodatkowe nagłówki, main_ff.css).
 
 Następnie pliki te są minimalizowane (minify, uglify, zwał jak zwał), aby były mniejsze.
 Są to pliki \*.min.css
-
 ## Styl kodu
 Osobiście do edycji używam [Atoma](http://atom.io), ale możesz używać innego edytora.
 Ważne jest natomiast, żeby tabulatura była "twarda", czyli nie składała się ze spacji,

@@ -1,0 +1,6 @@
+/* Posty */
+
+/* Informacje o autorze posta */
+li.post_count {
+	list-style-type: none; /* usunięcie wskaźnika listy */
+}
