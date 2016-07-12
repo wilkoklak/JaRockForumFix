@@ -2,11 +2,11 @@
 
 /* Odświeżenie wyglądu */
 #search_wrap, #search_options, #search_wrap .submit_input {
-		border-radius: 0;
-		-webkit-border-radius: 0;
-		-moz-border-radius: 0;
-		line-height: 30px;
-		height: 30px;
+	border-radius: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	line-height: 30px;
+	height: 30px;
 }
 /* Kontener wyszukiwarki */
 #search_wrap {
