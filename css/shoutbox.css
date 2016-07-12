@@ -2,8 +2,8 @@
 
 /* Ograniczenie szerokości czatu */
 #shoutbox-shouts-table {
-    max-width: 100%;
-    overflow-x: hidden;
+	max-width: 100%;
+	overflow-x: hidden;
 }
 /* zmiana rozmiaru awatara w SB */
 #shoutbox-shouts .ipsUserPhoto {
