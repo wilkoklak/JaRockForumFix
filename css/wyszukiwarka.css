@@ -19,6 +19,7 @@
 	position: relative;
 	top: -1px;
 	padding: 0 0 0 5px;
+	line-height: 30px;
 }
 /* Pole tekstowe kiedy jest podświetlone */
 #main_search:focus {

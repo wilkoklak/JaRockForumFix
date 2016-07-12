@@ -32,11 +32,11 @@
 		list-style-type: none;
 	}
 	#search_wrap, #search_options, #search_wrap .submit_input {
-			border-radius: 0;
-			-webkit-border-radius: 0;
-			-moz-border-radius: 0;
-			line-height: 30px;
-			height: 30px;
+		border-radius: 0;
+		-webkit-border-radius: 0;
+		-moz-border-radius: 0;
+		line-height: 30px;
+		height: 30px;
 	}
 	#search_wrap {
 		padding: 0 26px 0 0;
@@ -47,6 +47,7 @@
 		position: relative;
 		top: -1px;
 		padding: 0 0 0 5px;
+		line-height: 30px;
 	}
 	#main_search:focus {
 		background: #fff;
