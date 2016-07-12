@@ -1,4 +1,5 @@
 # Skrypt zapisujący wszystkie pliki z folderu CSS do jednego i usuwający komentarze
+# Do poprawki, lepiej wykonać ręcznie
 import re
 from glob import glob
 main_content = ""
