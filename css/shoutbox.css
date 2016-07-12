@@ -1,0 +1,12 @@
+/* Plik, w którym należy umieszczać rzeczy związane TYLKO z Shoutboxem!!! */
+
+/* Ograniczenie szerokości czatu */
+#shoutbox-shouts-table {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+/* zmiana rozmiaru awatara w SB */
+#shoutbox-shouts .ipsUserPhoto {
+	width: 32px;
+	height: 32px;
+}
