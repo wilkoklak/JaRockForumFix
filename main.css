@@ -31,7 +31,15 @@ li.post_count {
 	list-style-type: none;
 }
 
-
+span[style*="color:Sienna; text-shadow: 1px 1px 10px Sienna; font-weight: bold;"] {
+		text-shadow: none !important;
+}
+span[style*="color:#666699; text-shadow: 1px 1px 10px silver; font-weight: bold;"] {
+		text-shadow: none !important;
+}
+span[style*="color:#ff9933; text-shadow: 1px 1px 10px yellow; font-weight: bold;"] {
+	text-shadow: none !important;
+}
 
 #shoutbox-shouts-table {
 	max-width: 100%;
