@@ -1,0 +1,12 @@
+/* BRONZOWY PATRON */
+span[style*="color:Sienna; text-shadow: 1px 1px 10px Sienna; font-weight: bold;"] {
+		text-shadow: none !important;
+}
+/* SREBRNY PATRON */
+span[style*="color:#666699; text-shadow: 1px 1px 10px silver; font-weight: bold;"] {
+		text-shadow: none !important;
+}
+/* ZŁOTY PATRON */
+span[style*="color:#ff9933; text-shadow: 1px 1px 10px yellow; font-weight: bold;"] {
+	text-shadow: none !important;
+}
