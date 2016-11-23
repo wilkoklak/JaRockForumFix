@@ -12,5 +12,5 @@
 }
 /* Nadanie stałej szerokości w archiwum SB */
 #shoutbox-archive-shouts-div {
-		max-width: 720px; /* możliwe jest jeszcze dodatkowe 8px, ale myślę, że tak jak jest teraz, jest okej. */
+	max-width: 720px; /* możliwe jest jeszcze dodatkowe 8px, ale myślę, że tak jak jest teraz, jest okej. */
 }
