@@ -16,8 +16,8 @@
 }
 
 #more_apps_menucontent {
-	box-shadow: unset;
-	background: #d10915;
+	box-shadow: unset; 
+	background: #d10915; 
 }
 
 #more_apps_menucontent a:hover {
@@ -28,18 +28,26 @@
 
 
 li.post_count {
-	list-style-type: none;
+	list-style-type: none; 
 }
 
 span[style*="color:Sienna; text-shadow: 1px 1px 10px Sienna; font-weight: bold;"] {
-		text-shadow: none !important;
+	text-shadow: none !important;
 }
+
 span[style*="color:#666699; text-shadow: 1px 1px 10px silver; font-weight: bold;"] {
-		text-shadow: none !important;
+	text-shadow: none !important;
 }
+
 span[style*="color:#ff9933; text-shadow: 1px 1px 10px yellow; font-weight: bold;"] {
 	text-shadow: none !important;
 }
+
+* {
+	box-sizing: border-box;
+}
+
+
 
 #shoutbox-shouts-table {
 	max-width: 100%;
@@ -50,8 +58,9 @@ span[style*="color:#ff9933; text-shadow: 1px 1px 10px yellow; font-weight: bold;
 	width: 32px;
 	height: 32px;
 }
+
 #shoutbox-archive-shouts-div {
-		max-width: 720px;
+	max-width: 720px; 
 }
 
 
