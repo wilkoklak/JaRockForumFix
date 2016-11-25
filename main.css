@@ -1,4 +1,8 @@
 
+#footer_utilities a:hover {
+	color: #aaa !important; 
+}
+
 #community_app_menu li {
 	margin: 0;
 }
