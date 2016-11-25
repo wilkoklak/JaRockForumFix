@@ -60,6 +60,9 @@ Przykład (w markdownie tabulatory są zastępowane spacjami):
 ## Co aktualnie jest zmienione?
 1. Shoutbox (z mojej starej wersji)
 2. Menu (z mojej starej wersji)
+3. Wygląd wyszukiwarki
+4. Poprawki drobnych niedociągnięć
+5. Kolory rang
 
 ## Skład drużyny
 - Artur Boryś (Wilkokłak) - hedmajster projektu ![Kappa](http://how2play.pl/wp-content/uploads/2016/03/Kappa.png)
