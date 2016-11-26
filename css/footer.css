@@ -1,4 +1,0 @@
-/* Podświetlenie linków w stopce */
-#footer_utilities a:hover {
-	color: #aaa !important; /* Trzeba to zrobić bez !important, nieładny hack */
-}

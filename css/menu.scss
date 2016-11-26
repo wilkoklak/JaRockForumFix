@@ -1,0 +1,33 @@
+#community_app_menu {
+	li {
+		// Usunięcie marginesów w celu poprawienia wyświetlania na małych ekranach
+		margin: 0;
+		a {
+			// Dodanie czasu przejścia przy zmianie atrybutów linku
+			transition: 0.5s;
+			&:hover {
+				// Zmiana koloru tła po najechaniu
+				background-color: #ff000f;
+			}
+		}
+		&.active a {
+			&:hover {
+				// Zachowanie oryginalnego koloru tła aktywnego elementu
+				background-color: #fff;
+			}
+		}
+	}
+}
+
+// Rozwijalne elementy menu
+#more_apps_menucontent {
+	box-shadow: unset;
+	background: #d10915;
+	a {
+		// Zmiana kolorów po najechaniu myszą na element rozwijalnego menu
+		&:hover {
+			color: #fff !important;
+			background: #FF000F;
+		}
+	}
+}

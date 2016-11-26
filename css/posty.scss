@@ -1,0 +1,8 @@
+// Informacje o autorze posta
+.author_info {
+	li {
+		&.post_count {
+			list-style-type: none; // usunięcie wskaźnika listy
+		}
+	}
+}

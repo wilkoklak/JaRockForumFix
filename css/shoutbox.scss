@@ -1,0 +1,17 @@
+#shoutbox-shouts-table {
+	max-width: 100%; // Ograniczenie szerokości czatu
+	overflow-x: hidden; // Wszystko co wystaje poza szerokość zostanie ukryte
+}
+
+#shoutbox-shouts {
+	.ipsUserPhoto {
+		// Powiększenie rozmiaru awatara w SB
+		width: 32px;
+		height: 32px;
+	}
+}
+
+#shoutbox-archive-shouts-div {
+	// Nadanie stałej szerokości w archiwum SB
+	max-width: 720px;
+}
