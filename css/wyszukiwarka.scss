@@ -1,6 +1,4 @@
-/* Wyszukiwarka */
-
-/* Odświeżenie wyglądu */
+// Odświeżenie wyglądu
 #search_wrap, #search_options, #search_wrap .submit_input {
 	border-radius: 0;
 	-webkit-border-radius: 0;
@@ -8,11 +6,11 @@
 	line-height: 30px;
 	height: 30px;
 }
-/* Kontener wyszukiwarki */
 #search_wrap {
+	// Wcięcia kontenera wyszukiwarki
 	padding: 0 26px 0 0;
 }
-/* Pole tekstowe */
+// Pole tekstowe
 #main_search {
 	transition: 0.5s;
 	background: #eaeaea;
@@ -20,18 +18,17 @@
 	top: -1px;
 	padding: 0 0 0 5px;
 	line-height: 30px;
+	&:focus {
+		background: #fff;
+	}
 }
-/* Pole tekstowe kiedy jest podświetlone */
-#main_search:focus {
-	background: #fff;
-}
-/* Miejsce wyszukiwania */
+// Miejsce wyszukiwania
 #search_options {
 	margin: 0;
 	text-transform: uppercase;
 	min-width: 80px;
 }
-/* Odnosnik do wyszukiwania zaawansowanego */
+// Odnośnik do wyszukiwania zaawansowanego
 #adv_search {
 	margin: 0 4px;
 	height: 30px;

@@ -1,18 +1,17 @@
-
 #footer_utilities a:hover {
-	color: #aaa !important; 
+	color: #aaa !important;
 }
 
 #community_app_menu li {
 	margin: 0;
 }
 
-#community_app_menu a {
+#community_app_menu li a {
 	transition: 0.5s;
 }
 
 #community_app_menu li a:hover {
-	background-color: #FF000F;
+	background-color: #ff000f;
 }
 
 #community_app_menu li.active a:hover {
@@ -20,8 +19,8 @@
 }
 
 #more_apps_menucontent {
-	box-shadow: unset; 
-	background: #d10915; 
+	box-shadow: unset;
+	background: #d10915;
 }
 
 #more_apps_menucontent a:hover {
@@ -29,10 +28,8 @@
 	background: #FF000F;
 }
 
-
-
-li.post_count {
-	list-style-type: none; 
+.author_info li.post_count {
+	list-style-type: none;
 }
 
 span[style*="color:Sienna; text-shadow: 1px 1px 10px Sienna; font-weight: bold;"] {
@@ -51,8 +48,6 @@ span[style*="color:#ff9933; text-shadow: 1px 1px 10px yellow; font-weight: bold;
 	box-sizing: border-box;
 }
 
-
-
 #shoutbox-shouts-table {
 	max-width: 100%;
 	overflow-x: hidden;
@@ -64,10 +59,8 @@ span[style*="color:#ff9933; text-shadow: 1px 1px 10px yellow; font-weight: bold;
 }
 
 #shoutbox-archive-shouts-div {
-	max-width: 720px; 
+	max-width: 720px;
 }
-
-
 
 #search_wrap, #search_options, #search_wrap .submit_input {
 	border-radius: 0;

@@ -1,0 +1,8 @@
+#footer_utilities {
+	a {
+		&:hover {
+			// Kolor podświetlenia linków w stopce
+			color: #aaa !important; // Będzie trzeba znaleźć sposób na ominięcie !important
+		}
+	}
+}
