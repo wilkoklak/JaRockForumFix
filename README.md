@@ -14,6 +14,13 @@ Najnowszą stabilną wersję znajdziesz zawsze w plikach:
 Pliki ``*.min.css``, to skompresowane wersje kodu - mniej ważą, ale są
 praktycznie nieczytelne.
 
+## Co aktualnie jest zmienione?
+1. Shoutbox (z mojej starej wersji)
+2. Menu (z mojej starej wersji)
+3. Wygląd wyszukiwarki
+4. Poprawki drobnych niedociągnięć
+5. Kolory rang
+
 # Wspomaganie
 Każdy użytkownik forum może się przyłączyć. Wystarczą same sugestie zmian, ale
 własne edycje są jak najbardziej mile widziane.
@@ -39,13 +46,6 @@ Zasady:
 * komentarze, co jest czym, po co, na co, dlaczego tak
 * jak najbardziej precyzyjne selektory, aby nie było konfliktów
 * wrzucanie zmian do pliku odpowiedniej kategorii
-
-## Co aktualnie jest zmienione?
-1. Shoutbox (z mojej starej wersji)
-2. Menu (z mojej starej wersji)
-3. Wygląd wyszukiwarki
-4. Poprawki drobnych niedociągnięć
-5. Kolory rang
 
 ## Skład drużyny
 - Artur Boryś (Wilkokłak) - hedmajster projektu ![Kappa](http://how2play.pl/wp-content/uploads/2016/03/Kappa.png)
