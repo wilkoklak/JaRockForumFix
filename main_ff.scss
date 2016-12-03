@@ -1,10 +1,4 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("forum.jarock.pl") {
-	@import 'css/footer.scss';
-	@import 'css/menu.scss';
-	@import 'css/posty.scss';
-	@import 'css/rangi.scss';
-	@import 'css/rozne.scss';
-	@import 'css/shoutbox.scss';
-	@import 'css/wyszukiwarka.scss';
+	@import 'main.scss';
 }

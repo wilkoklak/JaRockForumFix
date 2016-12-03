@@ -1,3 +1,12 @@
 * {
 	box-sizing: border-box;
 }
+
+// Ukrycie przymusowych sponsorowanych linków
+.ctxt-link {
+	color: inherit;
+	cursor: text;
+	&:hover {
+		color: inherit;
+	}
+}

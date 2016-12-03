@@ -38,6 +38,13 @@
 	* {
 		box-sizing: border-box;
 	}
+	.ctxt-link {
+		color: inherit;
+		cursor: text;
+	}
+	.ctxt-link:hover {
+		color: inherit;
+	}
 	#shoutbox-shouts-table {
 		max-width: 100%;
 		overflow-x: hidden;

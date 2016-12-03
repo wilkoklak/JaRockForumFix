@@ -48,6 +48,15 @@ span[style*="color:#ff9933; text-shadow: 1px 1px 10px yellow; font-weight: bold;
 	box-sizing: border-box;
 }
 
+.ctxt-link {
+	color: inherit;
+	cursor: text;
+}
+
+.ctxt-link:hover {
+	color: inherit;
+}
+
 #shoutbox-shouts-table {
 	max-width: 100%;
 	overflow-x: hidden;
