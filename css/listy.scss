@@ -1,11 +1,12 @@
+@import 'vars.scss';
 // LISTA FILTRÓW W NOWEJ ZAWARTOŚCI
 .ipsSideMenu {
 	// Zmiana koloru podświetlenia aktywnego filtru
 	ul li.active a {
-		background-color: #d10915;
+		background-color: $color-jarock-red;
 		transition: background-color 0.5s; // Dodanie przejścia dla koloru tła
 		&:hover {
-			background-color: #ff000f;
+			background-color: $color-jarock-red-hover;
 		}
 	}
 }

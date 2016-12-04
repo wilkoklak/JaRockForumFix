@@ -7,7 +7,7 @@
 			transition: 0.5s;
 			&:hover {
 				// Zmiana koloru tła po najechaniu
-				background-color: #ff000f;
+				background-color: $color-jarock-red-hover;
 			}
 		}
 		&.active a {
@@ -22,7 +22,7 @@
 // Rozwijalne elementy menu
 #more_apps_menucontent {
 	box-shadow: unset;
-	background: #d10915;
+	background: $color-jarock-red;
 	a {
 		// Zmiana kolorów po najechaniu myszą na element rozwijalnego menu
 		&:hover {
