@@ -56,6 +56,10 @@
 	#shoutbox-archive-shouts-div {
 		max-width: 720px;
 	}
+	#user_link_menucontent > div.left {
+		width: 260px;
+		margin-left: 10px;
+	}
 	#search_wrap, #search_options, #search_wrap .submit_input {
 		border-radius: 0;
 		-webkit-border-radius: 0;
