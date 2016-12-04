@@ -3,6 +3,13 @@
 	#footer_utilities a:hover {
 		color: #aaa !important;
 	}
+	.ipsSideMenu ul li.active a {
+		background-color: #d10915;
+		transition: background-color 0.5s;
+	}
+	.ipsSideMenu ul li.active a:hover {
+		background-color: #ff000f;
+	}
 	#community_app_menu li {
 		margin: 0;
 	}
