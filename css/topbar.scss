@@ -1,0 +1,7 @@
+#user_link_menucontent {
+	// Przywrócenie starej pozycji formularza "Co masz na myśli?"
+	& > div.left {
+		width: 260px; // Zmniejszenie szerokości
+		margin-left: 10px; // Zmniejszenie marginesu, aby było równe z paddingiem
+	}
+}
