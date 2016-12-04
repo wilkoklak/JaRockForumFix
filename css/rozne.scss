@@ -10,3 +10,18 @@
 		color: inherit;
 	}
 }
+
+// Paginacja
+.pagination {
+	// Na razie nie działa za dobrze
+	// padding: 0; // Poprawa położenia
+	ul li a {
+		transition: 0.5s;
+		// Modyfikacja wyglądu po podświetleniu
+		&:hover {
+			background: #d10915 !important;
+			box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.5);
+			color: #fff;
+		}
+	}
+}
